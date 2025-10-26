@@ -1,4 +1,3 @@
-# ...existing code...
 import os
 import io
 import time
@@ -376,4 +375,5 @@ st.sidebar.markdown("---")
 st.sidebar.write("Executar via terminal:")
 st.sidebar.code(r'cd "c:\Users\anton\OneDrive\Área de Trabalho\Music Analysis"')
 st.sidebar.code("streamlit run streamlit_app.py")
+
 # ...existing code...
